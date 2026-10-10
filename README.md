@@ -1,6 +1,6 @@
 # Operating Systems Lab Record — VNRVJIET
 
-**Student Name:** S Chaitra Koushik  
+**Student Name:** S Koushik  
 **Roll No.:** 25071A6256  
 **Academic Year:** 2026  
 
